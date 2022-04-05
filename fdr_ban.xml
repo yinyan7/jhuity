@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FireDangerMap>
+  <District>
+    <Name>Far North Coast</Name>
+    <RegionNumber>1</RegionNumber>
+    <Councils>Ballina; Byron; Clarence Valley; Kyogle; Lismore; Richmond Valley; Tweed</Councils>
+    <DangerLevelToday>LOW MODERATE</DangerLevelToday>
+    <DangerLevelTomorrow>None</DangerLevelTomorrow>
+    <FireBanToday>No</FireBanToday>
+    <FireBanTomorrow>No</FireBanTomorrow>
+  </District>
+  <District>
+    <Name>North Coast</Name>
+    <RegionNumber>2</RegionNumber>
+    <Councils>Bellingen; Coffs Harbour; Gloucester; Greater Taree; Great Lakes; Port Macquarie-Hastings; Kempsey; Nambucca</Councils>
+    <DangerLevelToday>LOW MODERATE</DangerLevelToday>
+    <DangerLevelTomorrow>None</DangerLevelTomorrow>
+    <FireBanToday>No</FireBanToday>
+    <FireBanTomorrow>No</FireBanTomorrow>
+  </District>
+  <District>
+    <Name>Greater Hunter</Name>
+    <RegionNumber>3</RegionNumber>
+    <Councils>Cessnock; Dungog; Lake Macquarie; Maitland; Muswellbrook; Newcastle; Port Stephens; Singleton; Upper Hunter</Councils>
+    <DangerLevelToday>HIGH</DangerLevelToday>
+    <DangerLevelTomorrow>None</DangerLevelTomorrow>
+    <FireBanToday>No</FireBanToday>
+    <FireBanTomorrow>No</FireBanTomorrow>
+  </District>
+  <District>
+    <Name>Greater Sydney Region</Name>
+    <RegionNumber>4</RegionNumber>
+    <Councils>Ashfield; Auburn; Bankstown; The Hills; Blacktown; Blue Mountains; Botany Bay; Burwood; Camden; Campbelltown; Canada Bay; Canterbury; Fairfield; Gosford; Hawkesbury; Holroyd; Hornsby; Hunters Hill; Hurstville; Kogarah; Ku-ring-gai; Lane Cove; Leichhardt; Liverpool; Manly; Marrickville; Mosman; North Sydney; Parramatta; Penrith; Pittwater; Randwick; Rockdale; Ryde; Strathfield; Sutherland; Sydney; Warringah; Waverley; Willoughby; Woollahra; Wyong</Councils>
+    <DangerLevelToday>LOW MODERATE</DangerLevelToday>
+    <DangerLevelTomorrow>None</DangerLevelTomorrow>
+    <FireBanToday>No</FireBanToday>
+    <FireBanTomorrow>No</FireBanTomorrow>
+  </District>
+  <District>
+    <Name>Illawarra/Shoalhaven</Name>
+    <RegionNumber>5</RegionNumber>
+    <Councils>Kiama; Shellharbour; Shoalhaven; Wingecarribee; Wollondilly; Wollongong</Councils>
+    <DangerLevelToday>LOW MODERATE</DangerLevelToday>
+    <DangerLevelTomorrow>None</DangerLevelTomorrow>
+    <FireBanToday>No</FireBanToday>
+    <FireBanTomorrow>No</FireBanTomorrow>
+  </District>
+  <District>
+    <Name>Far South Coast</Name>
+    <RegionNumber>6</RegionNumber>
+    <Councils>Bega Valley; Eurobodalla</Councils>
+    <DangerLevelToday>HIGH</DangerLevelToday>
+    <DangerLevelTomorrow>None</DangerLevelTomorrow>
+    <FireBanToday>No</FireBanToday>
+    <FireBanTomorrow>No</FireBanTomorrow>
+  </District>
+  <District>
+    <Name>Monaro Alpine</Name>
+    <RegionNumber>7</RegionNumber>
+    <Councils>Bombala; Cooma-Monaro; Snowy River</Councils>
+    <DangerLevelToday>LOW MODERATE</DangerLevelToday>
+    <DangerLevelTomorrow>None</DangerLevelTomorrow>
+    <FireBanToday>No</FireBanToday>
+    <FireBanTomorrow>No</FireBanTomorrow>
+  </District>
+  <District>
+    <Name>ACT</Name>
+    <RegionNumber>8</RegionNumber>
+    <DangerLevelToday>HIGH</DangerLevelToday>
+    <DangerLevelTomorrow>None</DangerLevelTomorrow>
+    <FireBanToday>No</FireBanToday>
+    <FireBanTomorrow>No</FireBanTomorrow>
+  </District>
+  <District>
+    <Name>Southern Ranges</Name>
+    <RegionNumber>9</RegionNumber>
+    <Councils>Goulburn Mulwaree; Palerang; Queanbeyan; Upper Lachlan; Yass Valley</Councils>
+    <DangerLevelToday>HIGH</DangerLevelToday>
+    <DangerLevelTomorrow>None</DangerLevelTomorrow>
+    <FireBanToday>No</FireBanToday>
+    <FireBanTomorrow>No</FireBanTomorrow>
+  </District>
+  <District>
+    <Name>Central Ranges</Name>
+    <RegionNumber>10</RegionNumber>
+    <Councils>Bathurst; Blayney; Cabonne; Cowra; Lithgow; Mid-Western; Oberon; Orange</Councils>
+    <DangerLevelToday>HIGH</DangerLevelToday>
+    <DangerLevelTomorrow>None</DangerLevelTomorrow>
+    <FireBanToday>No</FireBanToday>
+    <FireBanTomorrow>No</FireBanTomorrow>
+  </District>
+  <District>
+    <Name>New England</Name>
+    <RegionNumber>11</RegionNumber>
+    <Councils>Armidale Dumaresq; Glen Innes Severn; Guyra; Tenterfield; Uralla; Walcha</Councils>
+    <DangerLevelToday>HIGH</DangerLevelToday>
+    <DangerLevelTomorrow>None</DangerLevelTomorrow>
+    <FireBanToday>No</FireBanToday>
+    <FireBanTomorrow>No</FireBanTomorrow>
+  </District>
+  <District>
+    <Name>Northern Slopes</Name>
+    <RegionNumber>12</RegionNumber>
+    <Councils>Gunnedah; Gwydir; Inverell; Liverpool Plains; Tamworth</Councils>
+    <DangerLevelToday>HIGH</DangerLevelToday>
+    <DangerLevelTomorrow>None</DangerLevelTomorrow>
+    <FireBanToday>No</FireBanToday>
+    <FireBanTomorrow>No</FireBanTomorrow>
+  </District>
+  <District>
+    <Name>North Western</Name>
+    <RegionNumber>13</RegionNumber>
+    <Councils>Moree Plains; Narrabri; Walgett; Warrumbungle</Councils>
+    <DangerLevelToday>HIGH</DangerLevelToday>
+    <DangerLevelTomorrow>None</DangerLevelTomorrow>
+    <FireBanToday>No</FireBanToday>
+    <FireBanTomorrow>No</FireBanTomorrow>
+  </District>
+  <District>
+    <Name>Upper Central West Plains</Name>
+    <RegionNumber>14</RegionNumber>
+    <Councils>Bogan; Coonamble; Gilgandra; Warren</Councils>
+    <DangerLevelToday>HIGH</DangerLevelToday>
+    <DangerLevelTomorrow>None</DangerLevelTomorrow>
+    <FireBanToday>No</FireBanToday>
+    <FireBanTomorrow>No</FireBanTomorrow>
+  </District>
+  <District>
+    <Name>Lower Central West Plains</Name>
+    <RegionNumber>15</RegionNumber>
+    <Councils>Bland; Dubbo; Forbes; Lachlan; Narromine; Parkes; Temora; Weddin; Wellington</Councils>
+    <DangerLevelToday>HIGH</DangerLevelToday>
+    <DangerLevelTomorrow>None</DangerLevelTomorrow>
+    <FireBanToday>No</FireBanToday>
+    <FireBanTomorrow>No</FireBanTomorrow>
+  </District>
+  <District>
+    <Name>Southern Slopes</Name>
+    <RegionNumber>16</RegionNumber>
+    <Councils>Boorowa; Cootamundra; Gundagai; Harden; Tumbarumba; Tumut; Young</Councils>
+    <DangerLevelToday>HIGH</DangerLevelToday>
+    <DangerLevelTomorrow>None</DangerLevelTomorrow>
+    <FireBanToday>No</FireBanToday>
+    <FireBanTomorrow>No</FireBanTomorrow>
+  </District>
+  <District>
+    <Name>Eastern Riverina</Name>
+    <RegionNumber>17</RegionNumber>
+    <Councils>Albury; Coolamon; Greater Hume; Junee; Lockhart; Wagga Wagga</Councils>
+    <DangerLevelToday>HIGH</DangerLevelToday>
+    <DangerLevelTomorrow>None</DangerLevelTomorrow>
+    <FireBanToday>No</FireBanToday>
+    <FireBanTomorrow>No</FireBanTomorrow>
+  </District>
+  <District>
+    <Name>Southern Riverina</Name>
+    <RegionNumber>18</RegionNumber>
+    <Councils>Berrigan; Conargo; Corowa; Deniliquin; Jerilderie; Murray; Urana; Wakool</Councils>
+    <DangerLevelToday>HIGH</DangerLevelToday>
+    <DangerLevelTomorrow>None</DangerLevelTomorrow>
+    <FireBanToday>No</FireBanToday>
+    <FireBanTomorrow>No</FireBanTomorrow>
+  </District>
+  <District>
+    <Name>Northern Riverina</Name>
+    <RegionNumber>19</RegionNumber>
+    <Councils>Carrathool; Griffith; Hay; Leeton; Murrumbidgee; Narrandera</Councils>
+    <DangerLevelToday>LOW MODERATE</DangerLevelToday>
+    <DangerLevelTomorrow>None</DangerLevelTomorrow>
+    <FireBanToday>No</FireBanToday>
+    <FireBanTomorrow>No</FireBanTomorrow>
+  </District>
+  <District>
+    <Name>South Western</Name>
+    <RegionNumber>20</RegionNumber>
+    <Councils>Balranald; Wentworth</Councils>
+    <DangerLevelToday>LOW MODERATE</DangerLevelToday>
+    <DangerLevelTomorrow>None</DangerLevelTomorrow>
+    <FireBanToday>No</FireBanToday>
+    <FireBanTomorrow>No</FireBanTomorrow>
+  </District>
+  <District>
+    <Name>Far Western</Name>
+    <RegionNumber>21</RegionNumber>
+    <Councils>Bourke; Brewarrina; Broken Hill; Central Darling; Cobar</Councils>
+    <DangerLevelToday>LOW MODERATE</DangerLevelToday>
+    <DangerLevelTomorrow>None</DangerLevelTomorrow>
+    <FireBanToday>No</FireBanToday>
+    <FireBanTomorrow>No</FireBanTomorrow>
+  </District>
+  <District>
+    <Name>Not for display on web site</Name>
+    <RegionNumber>22</RegionNumber>
+    <Councils>N/A</Councils>
+    <FireBanToday>No</FireBanToday>
+    <FireBanTomorrow>No</FireBanTomorrow>
+  </District>
+  </FireDangerMap>
